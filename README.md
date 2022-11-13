@@ -1,13 +1,13 @@
-Hi 👋 My name is Moses 
+Moses Ngure
 =====================
 
-Flutter Developer
+Flutter | Dart Developer
 -------------------
 
 * 🌍  I'm based in Nakuru,Kenya
 * ✉️  You can contact me at [njorogemosesngure@gmail.com](mailto:njorogemosesngure@gmail.com)
 * 🧠  I'm learning back-end development in Node.js
-* 🤝  I'm open to collaborating on constructing Flutter mobile applications
+* 🤝  I'm open to collaborating on Flutter projects
 
 <a href="https://www.twitter.com/i_mwanagenzi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/i_mwanagenzi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
