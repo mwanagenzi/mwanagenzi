@@ -29,10 +29,6 @@ src="https://img.shields.io/github/followers/mwanagenzi?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mwanagenzi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.https://www.linkedin.com/in/moses-njoroge/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/i_mwanagenzi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://wa.me/254741047445" target="blank">
-    <img align="center"
-      src="https://img.icons8.com/color/512/whatsapp--v4.png"
-      alt="linkedin" height="30" width="40" /></a> 
 </p>
 
 
