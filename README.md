@@ -3,11 +3,19 @@ Moses Ngure
 
 Flutter | Dart Developer
 -------------------
+I design and build mobile applications
+-------------------
 
 * 🌍  I'm based in Nakuru,Kenya
 * ✉️  You can contact me at [njorogemosesngure@gmail.com](mailto:njorogemosesngure@gmail.com)
 * 🧠  I'm learning back-end development in Node.js
 * 🤝  I'm open to collaborating on Flutter projects
+
+I am a result-oriented developer, passionate on building user-friendly mobile applications to
+the client's satisfaction. 
+
+I'm a Computer Science student at Egerton University, Kenya who enjoys learning everyday to sharpen
+my skills and keep up with the latest market trends to deliver solutions to current problems.
 
 <a href="https://www.twitter.com/i_mwanagenzi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/i_mwanagenzi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -16,7 +24,7 @@ src="https://img.shields.io/github/followers/mwanagenzi?logo=github&style=for-th
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,flutter,dart,javascript,figma)
+![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,flutter,dart,javascript,figma,firebase,rest)
 
 ### Socials
 
