@@ -1,9 +1,9 @@
 Moses Ngure
 =====================
 
-Flutter Developer | Android Developer
+Flutter | Android Developer
 -------------------
-I design and build mobile applications using FLutter (Dart) and Kotlin for Android OS
+I design and build mobile applications using Flutter (Dart) and Kotlin for Android OS
 -------------------
 
 * 🌍  I'm based in Nairobi,Kenya
@@ -14,7 +14,7 @@ I design and build mobile applications using FLutter (Dart) and Kotlin for Andro
 I am a result-oriented developer, passionate on building user-friendly mobile applications to
 the client's satisfaction. 
 
-I'm an attachee at FOCUS Kenya and a former Computer Science student at Egerton University, Kenya who enjoys learning everyday to sharpen
+I'm a Software Developer intern at FOCUS Kenya and a former Computer Science student at Egerton University, Kenya who enjoys learning everyday to sharpen
 my skills and keep up with the latest market trends to deliver solutions to current problems.
 
 <a href="https://www.twitter.com/i_mwanagenzi" target="_blank" rel="noreferrer"><img
