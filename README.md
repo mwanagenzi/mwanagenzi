@@ -1,7 +1,7 @@
 Moses Ngure
 =====================
 
-Flutter | Android Developer
+Flutter | Android | Laravel Developer
 -------------------
 I design and build mobile applications using Flutter (Dart) and Kotlin for Android OS
 -------------------
@@ -9,12 +9,12 @@ I design and build mobile applications using Flutter (Dart) and Kotlin for Andro
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [njorogemosesngure@gmail.com](mailto:njorogemosesngure@gmail.com)
 * 🧠  I'm learning Android Development and back-end development in Laravel.
-* 🤝  I'm open to collaborating on Flutter projects and Android projects.
+* 🤝  I'm open to collaborating on Android and Laravel projects.
 
 I am a result-oriented developer, passionate on building user-friendly mobile applications to
 the client's satisfaction. 
 
-I'm a Software Developer intern at FOCUS Kenya and a former Computer Science student at Egerton University, Kenya who enjoys learning everyday to sharpen
+I'm an IT Assistant at FOCUS Kenya and a former Computer Science student at Egerton University, who enjoys learning everyday to sharpen
 my skills and keep up with the latest market trends to deliver solutions to current problems.
 
 <a href="https://www.twitter.com/i_mwanagenzi" target="_blank" rel="noreferrer"><img
